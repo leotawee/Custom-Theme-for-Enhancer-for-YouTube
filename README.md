@@ -37,7 +37,7 @@ Custom CSS themes for YouTube, made for [Enhancer for YouTube](https://www.mrfde
 If the full file is too long for the editor, use this:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/VacTuzX-dot/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css");
+@import url("https://cdn.jsdelivr.net/gh/leotawee/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css");
 ```
 
 > **Note:** Do **not** paste this line inside `AmethystTheme.css` itself — that causes an infinite import loop. Paste it only into Enhancer for YouTube's **Custom CSS** box.
@@ -49,7 +49,7 @@ jsDelivr caches the `@main` branch for up to **24 hours**. After pushing new com
 **To force an immediate update after pushing:**
 
 1. Open this URL in your browser:  
-   [`https://purge.jsdelivr.net/gh/VacTuzX-dot/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css`](https://purge.jsdelivr.net/gh/VacTuzX-dot/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css)
+   [`https://purge.jsdelivr.net/gh/leotawee/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css`](https://purge.jsdelivr.net/gh/leotawee/Custom-Theme-for-Enhancer-for-YouTube@main/themes/AmethystTheme.css)
 2. Wait a few seconds for the purge to complete.
 3. Reload YouTube — the new styles will apply immediately.
 
